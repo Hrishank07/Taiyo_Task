@@ -1,0 +1,3 @@
+,place,2010,County/State_name,sample_frequency,timestamps,name,units,url,domain,aug_id,original_id,country_code,country_name
+0,geoId/6062500,3656,Pago Pago,0.0,{2010:2010},Count_Person_over_time,year,https://datacommons.org/tools/statvar#Count_Person,int64,geoId/6062500,geoId/6062500,ASM,American Samoa
+1,wikidataId/Q5455450,153,"Fitiuta, American Samoa",0.0,{2010:2010},Count_Person_over_time,year,https://datacommons.org/tools/statvar#Count_Person,int64,wikidataId/Q5455450,wikidataId/Q5455450,ASM,American Samoa
